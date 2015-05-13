@@ -1,0 +1,1 @@
+Single Resource REST API via Sequelize README goes here
